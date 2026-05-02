@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "description": "Read daily comic strips from GoComics.com",
     "contentType": "comics",
-    "scriptUrl": "https://raw.githubusercontent.com/stom969/cinder-extensions/refs/heads/main/gocomics.js",
+    "scriptUrl": "https://raw.githubusercontent.com/stom969/cinder-melly/refs/heads/main/gocomics.js",
     "minCinderVersion": "2.0.0"
   }
 ]
